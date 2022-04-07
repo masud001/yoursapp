@@ -5,13 +5,13 @@
 -   a web application where user could get a list of issues for a given Github repository by its owner and name.
 -   Use Github Rest API to fetch the data.
 
-# Requirements
+## Requirements
 
 -   Use TypeScript (ES6), React and Redux;
 -   Use Git Version Control System;
 -   Project should have a README with configuration and launch instructions;
 
-# launch instructions
+## launch instructions
 
 -   In the project directory, you can run:
 
